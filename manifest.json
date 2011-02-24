@@ -1,0 +1,12 @@
+{
+  //required
+  "name": "Joogle",
+  "version": "0.1",
+
+  //recommended
+  "description": "Quickly zoom to your favourite shortcuts by pressing a key on the keyboard",
+
+  "chrome_url_overrides" : {
+    "newtab": "joogle.htm"
+  }
+}

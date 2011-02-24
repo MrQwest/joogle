@@ -1,0 +1,64 @@
+body {
+  background-color:#eee;
+  background-image:url(http://mrqwest.co.uk/images/bg.png);
+  }
+  
+.container {
+  margin:0px auto;
+  border:1px solid rgba(0,0,0,.2);
+  border-radius:8px;
+  padding:50px 0px;
+  width:95%;
+}
+
+h1 { 
+	font-weight:normal;
+	font-family: 'Yanone Kaffeesatz', arial, serif; 
+	text-align:center;
+	color:rgba(0,0,0,.7);
+	}
+
+.keyboard {
+  text-align:center;
+}
+
+.keyboard a{
+  margin:0px 5px 25px 5px;
+  display: inline-block;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow:
+    0 8px 1px #323032,
+    0 15px 20px rgba(0,0,0,.35);
+  box-shadow:
+    0 8px 1px #323032,
+    0 15px 20px rgba(0,0,0,.35);
+  -webkit-transition: -webkit-box-shadow .2s ease-in-out;
+  transition: box-shadow .2s ease-in-out;
+  color:#eee;
+  width:8.9%;
+    background: #656365;
+  background: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#323032), to(#656365));
+  }
+  
+.keyboard a .shortcutkey {
+  text-align:left;
+  display: inline-block;
+  padding: 10px  20px;
+  width:57%;
+  height:3em;
+  font-family: "cooper-black-std-1", "cooper-black-std-2", Helvetica, Arial, sans-serif;
+  line-height: 1;
+  text-shadow: 0 -1px 1px rgba(19,65,88,.8);
+
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-shadow: inset 0 -1px 1px rgba(255,255,255,.15);
+  box-shadow: inset 0 -1px 1px rgba(255,255,255,.15);
+  -webkit-transition: -webkit-transform .2s ease-in-out;
+  transition: transform .2s ease-in-out;
+}
+
+
+  
+ 

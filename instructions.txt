@@ -1,0 +1,12 @@
+Open Chrome
+
+Go to the Extensions screen
+
+Expand "Developer Mode"
+
+Click "Load unpackaged extension..."
+
+Select this folder
+
+You've got Joogle installed on Chrome baby!
+
